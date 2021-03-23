@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=jason-guru)
+![](https://komarev.com/ghpvc/?username=jason-guru&color=brightgreen&style=flat)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jason-guru&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jason-guru&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="jason-guru" /></p>
