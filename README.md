@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Jason,
-a thoughtful developer with curiosity to learn and apply new ideas everyday, I have great understanding and expertise of Laravel and Vue.js.
+a mindful developer with curiosity to learn and apply new ideas everyday, I have great understanding and expertise of Laravel and Vue.js.
 
 And **Test Driven Development(TDD) approach is my habit.**
 
