@@ -2,7 +2,7 @@
 
 I’m a **full-stack developer** who thrives at the intersection of clean code, creative problem-solving, and constant learning.
 
-- 🔨 **Tech toolbelt:** PHP (Laravel) &nbsp;|&nbsp; JavaScript (Vue.js) &nbsp;|&nbsp; Docker &nbsp;|&nbsp; GitHub Copilot  
+- 🔨 **Tech toolbelt:** PHP (Laravel) &nbsp;|&nbsp; JavaScript (Vue.js & React) &nbsp;|&nbsp; Docker &nbsp;|&nbsp; GitHub Copilot  
 - 🚀 **Side quests:** Building a SaaS from scratch and fine-tuning AI models to make software smarter.  
 - 🌱 **Weekend ritual:** Carving out 5 laser-focused hours to upskill, explore new frameworks, and tinker with ML.  
 - 🛠️ **Current lab project:** A culturally rich **Meitei naming app**—bridging language, identity, and tech.  
@@ -16,6 +16,6 @@ I’m a **full-stack developer** who thrives at the intersection of clean code, 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jason-sharma&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jason-guru&show_icons=true&hide_border=true" alt="GitHub Stats" />
 </p>
 
