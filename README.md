@@ -5,7 +5,7 @@ I’m a **full-stack developer** who thrives at the intersection of clean code, 
 - 🔨 **Tech toolbelt:** PHP (Laravel) &nbsp;|&nbsp; JavaScript (Vue.js & React) &nbsp;|&nbsp; Docker &nbsp;|&nbsp; GitHub Copilot  
 - 🚀 **Side quests:** Building a SaaS from scratch and fine-tuning AI models to make software smarter.  
 - 🌱 **Weekend ritual:** Carving out 5 laser-focused hours to upskill, explore new frameworks, and tinker with ML.  
-- 🛠️ **Current lab project:** A culturally rich **Meitei naming app**—bridging language, identity, and tech.   
+- 🛠️ **Current lab project:** A culturally rich **Manipuri naming app**—bridging language, identity, and tech.   
 - 🗺️ **Region & roots:** Proudly crafting code from Manipur, India, and always open to global collaboration.  
 - ✨ **Mission:** Build products that are robust, people-centric, and a joy to extend—while helping fellow devs level up along the way.  
 - 💬 **Let’s chat:** If you’re into scalable back-ends, thoughtful UI, or AI-powered innovation, drop me a line!
